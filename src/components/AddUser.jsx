@@ -12,15 +12,15 @@ const Adduser = () => {
                         <div className="container">
                             <div className="row g-3">
                                 <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-                                    <label htmlFor="" className="form-label">Id</label>
+                                    <label htmlFor="" className="form-label">User Id</label>
                                     <input type="number" className="form-control" />
                                 </div>
                                 <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-                                    <label htmlFor="" className="form-label">Name</label>
+                                    <label htmlFor="" className="form-label">Id</label>
                                     <input type="text" className="form-control" />
                                 </div>
                                 <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-                                    <label htmlFor="" className="form-label">Username</label>
+                                    <label htmlFor="" className="form-label">Title</label>
                                     <input type="text" className="form-control" />
                                 </div>
                                 <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
